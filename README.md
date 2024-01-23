@@ -48,15 +48,25 @@ Unbekannt, Infos folgen.
 ## Aufgaben
 
 a) Geben Sie alle Kunden aus.
+
 b) Geben Sie Namen und Kategorie aller Hotels aus.
+
 c) Finden Sie alle Umsa ̈tze gro ̈ßer 500,00 Euro.
+
 d) Finden Sie Name und Kategoriename aller Hotels mit mindestens 3 Sternen, die Einzel- oder Doppelzimmer mit einem Preis unter 80,00 Euro haben.
+
 e) Geben Sie die Namen aller Hotels in Zuerich aus.
+
 f) Finden Sie den Preis des billigsten Einzelzimmers.
+
 g) Geben Sie die Anzahl der Buchungen pro Kundennummer aus.
+
 h) Geben Sie die Namen der Kunden, die mehr als zwei Buchungen gemacht haben, aus.
+
 i) Geben Sie die Hotelnamen aller Buchungen fu ̈r Ziele in Frankreich aus. Verwenden Sie zur Selektion nur den Landesnamen (Attribut name in der Tabelle land).
+
 j) Geben Sie Vorname, Name, Adresse, Postleitzahl und Ort aller Kunden aus, die nach dem 01.09.2015 ein Einzelzimmer unter 50,00 Euro gebucht haben.
+
 k) Geben Sie von allen Hotels den Hotelnamen und den Namen des Landes in dem es steht aus. La ̈nder ohne Hotels sollen ebenfalls mit aufgelistet werden. Sortieren Sie die Liste nach La ̈ndernamen.
 
 ## Lösungen
