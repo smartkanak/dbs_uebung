@@ -41,7 +41,7 @@ SQL skript ausführen (man kann auch vorher in den Ordner wo sql liegt, dann kei
 \i path/to/init_hotel.sql
 ```
 
-### Setup in der Uni
+## Setup in der Uni
 
 Unbekannt, Infos folgen.
 
